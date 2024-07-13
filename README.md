@@ -6,6 +6,7 @@
     <td>NodeJs</td>
     <td>Docker</td>
     <td>Mongodb</td>
+    <td>Framer</td>
   </tr>
 </table>
 
